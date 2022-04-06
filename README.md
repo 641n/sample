@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Welcome to *Sir Gain's* GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/641n/sample/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Owned by Sir Gain
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+### Website Creation Tools
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Static Site Generators
+2. Content Management Systems
+3. Site Builders
 
-```markdown
-Syntax highlighted code block
+### Website Creation Tools
 
-# Header 1
-## Header 2
-### Header 3
+- Static Site Generators
+- Content Management Systems
+- Site Builders
 
-- Bulleted
-- List
+### Codes
 
-1. Numbered
-2. List
+`This is **bold** and this is *italics*`
 
-**Bold** and _Italic_ and `Code` text
+```
+### Website Creation Tools
 
-[Link](url) and ![Image](src)
+- Static Site Generators
+- Content Management Systems
+- Site Builders
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Blockquotes
+> The quick brown fox jumps over the lazy dog near the bank of the river. The quick brown fox jumps over the lazy dog near the bank of the river. The quick brown fox jumps over the lazy dog near the bank of the river. The quick brown fox jumps over the lazy dog near the bank of the river. The quick brown fox jumps over the lazy dog near the bank of the river. The quick brown fox jumps over the lazy dog near the bank of the river. 
 
-### Jekyll Themes
+### Images
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/641n/sample/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Golden Knight](https://www.adnu.edu.ph/Centers/IP/_borders/goldenKnight-copy.jpg)
 
-### Support or Contact
+### Links
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[`Facebook`](https://www.facebook.com/sirgain)
+[`Twitter`](https://www.twitter.com/sirgain)
+
